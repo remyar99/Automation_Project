@@ -1,4 +1,4 @@
-root@ip-172-31-21-201:~/Automation_Project# vi automation.sh
+
 #Author:Remya R                                       #
 #Version : 1                                          #
 #-----------------------------------------------------#
